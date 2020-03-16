@@ -1,14 +1,14 @@
 package main
 
 import (
-	"github.com/cfryerdev/zeroslope-golang/pkg/config"
-	"github.com/cfryerdev/zeroslope-golang/pkg/controllers"
-	"github.com/cfryerdev/zeroslope-golang/pkg/middlewares"
+	"zeroslope-golang/pkg/config"
+	"zeroslope-golang/pkg/controllers"
+	"zeroslope-golang/pkg/middlewares"
 
 	"net/http"
 
 	// Use the swagger docs
-	_ "github.com/cfryerdev/zeroslope-golang/cmd/zeroslopesvc/docs"
+	_ "zeroslope-golang/cmd/zeroslopesvc/docs"
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"

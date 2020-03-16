@@ -1,4 +1,4 @@
-module github.com/cfryerdev/zeroslope-golang
+module zeroslope-golang
 
 go 1.14
 
@@ -7,6 +7,7 @@ require (
 	github.com/PuerkitoBio/purell v1.1.1
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
+	github.com/cfryerdev/zeroslope-golang v0.0.0-20200110193447-ab7a66b96fd7
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/gin-contrib/cors v1.3.0
 	github.com/gin-contrib/sse v0.1.0

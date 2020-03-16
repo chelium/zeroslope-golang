@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/cfryerdev/zeroslope-golang/pkg/config"
-	"github.com/cfryerdev/zeroslope-golang/pkg/database"
+	"zeroslope-golang/pkg/config"
+	"zeroslope-golang/pkg/database"
 )
 
 // @title ZeroSlope API

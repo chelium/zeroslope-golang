@@ -5,7 +5,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/cfryerdev/zeroslope-golang/pkg/config"
+	"zeroslope-golang/pkg/config"
+
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
 )
